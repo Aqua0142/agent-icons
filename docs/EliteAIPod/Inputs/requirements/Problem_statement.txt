@@ -1,1 +1,0 @@
-Build a 2-page Simple furniture Shopping Cart: Page 1 lists three items (Chairs, Tables & Designer frames) with "Add to Cart" buttons, and Page 2 shows the items you selected and the total price.
